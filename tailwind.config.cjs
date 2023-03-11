@@ -14,6 +14,8 @@ module.exports = {
       },
       backgroundImage: {
         hero: "linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url('/images/hero.jpeg')",
+        img1: "linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url('/images/img-1.jpeg')",
+        img2: "linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url('/images/img-2.jpeg')",
       },
     },
   },
